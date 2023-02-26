@@ -1,6 +1,7 @@
 # Table of contents
 
-* [はじめに](README.md)
+* [Goを使ってみよう](README.md)
+* [まずはGoとは何かを](mazuhagotohakawo.md)
 * [オンライン銀行プロジェクトの概要](onrainpurojekutono.md)
 * [テストの作成を始める](tesutonowomeru.md)
 * [銀行のコア パッケージを作成する](nokoa-pakkjiwosuru.md)

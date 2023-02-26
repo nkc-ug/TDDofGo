@@ -2,13 +2,11 @@
 description: はじめに
 ---
 
-# はじめに
+# Goを使ってみよう
 
-### &#x20;<a href="#learning-objectives" id="learning-objectives"></a>
+## はじめに
 
-### まずはGoとは何かを <a href="#learning-objectives" id="learning-objectives"></a>
-
-[https://docs.google.com/presentation/d/1FTPh4KGUEnuFQjA9ajI9UmtLoVl5-dSBIKCA25yt92o/edit?usp=sharing](https://docs.google.com/presentation/d/1FTPh4KGUEnuFQjA9ajI9UmtLoVl5-dSBIKCA25yt92o/edit?usp=sharing)
+ハンズオン形式でGoを勉強してもらいます
 
 ### 学習の目的 <a href="#learning-objectives" id="learning-objectives"></a>
 
